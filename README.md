@@ -1,4 +1,4 @@
-## Hi there! 👋
+## Hi there! 👋🏼
 
 I’m currently enrolled at **Columbia Software Engineering Boot Camp** and learning **TypeScript, JavaScript, Node.js, HTML, CSS, and React.**
   - 🔭 I’m working on improving my front-end and back-end development skills, focusing on Node.js, TypeScript, and Web APIs.
