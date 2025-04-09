@@ -39,4 +39,4 @@ I'm Roni, a full-stack developer and recent graduate of the **Columbia Software 
 
 ### 📫 Let’s Connect!
 
-Check out my [portfolio](https://ronirutan.netlify.app/portfolio) or feel free to explore my GitHub projects below! 🚀
+Check out my [portfolio](https://ronirutan.com/portfolio) or feel free to explore my GitHub projects below! 🚀
