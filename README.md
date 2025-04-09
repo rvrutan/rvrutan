@@ -13,8 +13,8 @@ I'm Roni, a full-stack developer and recent graduate of the **Columbia Software 
 - Creating a **browser game** using **JavaScript** and **Bootstrap**
 - Developing a **React portfolio** styled with **Tailwind CSS v4**
 - Collaborating on full-stack projects like:
-  - 🔮 **[Fortune Tell](https://fortune-tell.netlify.app/)** – A mystical web app using tarot and astrology to generate personalized fortunes
-  - 🧠 **[Multi-Language Dictionary App](https://multi-dictionary.ronirutan.com/)** – A language-learning app supporting translations across multiple languages
+  - 🔮 **[ForTune](https://fortune-tell.netlify.app/)** – A mystical web app using tarot and astrology to generate personalized fortunes
+  - 🧠 **[Multi-Dictionary App](https://multi-dictionary.ronirutan.com/)** – A language-learning app supporting translations across multiple languages
   - ⬛ **[Wordle by Roni](https://wordle.ronirutan.com/)** – A custom Wordle clone built with **React** and **Vite**
   
 ---
